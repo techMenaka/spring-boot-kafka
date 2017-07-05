@@ -1,0 +1,11 @@
+#Default GitHub
+Host github.com
+  HostName github.com
+  User techMenaka
+  IdentityFile ~/.ssh/id_rsa_gitHub
+
+Host git-TARGET
+  HostName http://git.target.com
+  User Menaka
+  IdentityFile ~/.ssh/id_rsa_gitTarget
+
